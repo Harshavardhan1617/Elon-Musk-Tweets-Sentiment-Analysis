@@ -1,0 +1,16 @@
+https://github.com/Harshavardhan1617/Elon-Musk-Tweets-Sentiment-Analysis
+
+api keys
+XWc9VVzbNeVKn3YGWImB94btf
+
+api key secret
+yzRk5IclZ03XgpYEZI5pBa4jnkMWeRBldZT5hNVqS8W55jxu8n
+
+bearer token 
+AAAAAAAAAAAAAAAAAAAAAHc%2BjwEAAAAA9XFpG1BSvhjGo8jKcz2TDucotHw%3D27ZvAVkihbUtDl9sXDRQ1ddbc6D1DTVbLK8yixwfTUE1JTnmu7
+
+access token
+1597025533153333248-wUi6kGbMJKzNDHX0obcMXSLi6EfJ3R
+
+access token secret
+V6r3HM4LopiK6pYjNALmZQUbhXVQ3eqrkfd0D47FndiW6
